@@ -6,3 +6,5 @@ https://www.w3schools.com
 This repository is built step by step in the tutorial
 
 I am adding some informations.
+
+Added one more line about gold.
